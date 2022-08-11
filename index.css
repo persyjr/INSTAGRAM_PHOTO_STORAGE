@@ -1,0 +1,25 @@
+.postcard {
+ 	background-color: Yellow;
+	text-align: center;	
+	display: inline;
+}
+.body{
+	display: flex;
+	background-color: White;
+	justify-content: center;
+	align-content: center;	
+}
+.profilePicture {
+  width: 45px;
+  height: 45px;
+  background-color: Blue;
+  border-radius: 23px;
+}
+.containerHeader{
+padding: 10px;
+display: flex;
+justify-content: flex-start;
+}
+.header_card{
+padding-left	: 10px;
+}
